@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CSharpUygulamalar\DegerTip_ReferansTip\bin\Debug\DegerTip_ReferansTip.exe.config
+C:\Users\user\source\repos\CSharpUygulamalar\DegerTip_ReferansTip\bin\Debug\DegerTip_ReferansTip.exe
+C:\Users\user\source\repos\CSharpUygulamalar\DegerTip_ReferansTip\bin\Debug\DegerTip_ReferansTip.pdb
+C:\Users\user\source\repos\CSharpUygulamalar\DegerTip_ReferansTip\obj\Debug\DegerTip_ReferansTip.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpUygulamalar\DegerTip_ReferansTip\obj\Debug\DegerTip_ReferansTip.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CSharpUygulamalar\DegerTip_ReferansTip\obj\Debug\DegerTip_ReferansTip.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpUygulamalar\DegerTip_ReferansTip\obj\Debug\DegerTip_ReferansTip.exe
+C:\Users\user\source\repos\CSharpUygulamalar\DegerTip_ReferansTip\obj\Debug\DegerTip_ReferansTip.pdb
